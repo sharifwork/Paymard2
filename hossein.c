@@ -10,6 +10,7 @@ int main(){
 		cout << "fard";
 	else
 		cout << "zoj";
+cout << "good night";
 
   return 0;
 }
